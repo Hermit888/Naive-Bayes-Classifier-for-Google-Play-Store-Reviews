@@ -22,7 +22,7 @@ Codes test the classifier by using the test set and log-space calculations to av
 - F-score
 
 ### New Input
-Finally, the program will ask the user for keyboard input (a single sentence S). It will display the classifier decision (1-5 score) with log-space calculations and probabilities of each class, that is P(CLASS_A |S), P(CLASS_B | S), P(CLASS_C |S), and P(CLASS_D | S), P(CLASS_E |S).
+Finally, the program will ask the user for keyboard input. It will display the classifier decision (1-5 score) with log-space calculations and probabilities of each class, that is P(CLASS_A |S), P(CLASS_B | S), P(CLASS_C |S), and P(CLASS_D | S), P(CLASS_E |S). After distinguishing, you are allowed to enter new sentences by typing 'Y' when the code's asking. Type 'N' will exit the program.
 
 # Results
 __Test result:__<br>
