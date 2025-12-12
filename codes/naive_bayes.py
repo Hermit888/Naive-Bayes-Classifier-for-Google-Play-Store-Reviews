@@ -5,7 +5,7 @@ from nltk.tokenize import SpaceTokenizer
 from nltk.tokenize import WordPunctTokenizer
 from sklearn.metrics import confusion_matrix
 
-# enter python main.py "TRAIN_SIZE" in terminal to start
+# enter python naive_bayes.py "TRAIN_SIZE" in terminal to start
 # for example "python naive_bayes.py 80"
 
 
