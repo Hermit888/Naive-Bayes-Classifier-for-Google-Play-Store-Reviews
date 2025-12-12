@@ -21,6 +21,8 @@ Codes test the classifier by using the test set and log-space calculations to av
 - accuracy,
 - F-score
 
-# New Input
+### New Input
 Finally, the program will ask the user for keyboard input (a single sentence S). It will display the classifier decision (1-5 score) with log-space calculations and probabilities of each class, that is P(CLASS_A |S), P(CLASS_B | S), P(CLASS_C |S), and P(CLASS_D | S), P(CLASS_E |S).
 
+# Results
+/images/test_results.png
