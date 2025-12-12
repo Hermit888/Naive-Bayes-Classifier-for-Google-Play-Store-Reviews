@@ -25,4 +25,15 @@ Codes test the classifier by using the test set and log-space calculations to av
 Finally, the program will ask the user for keyboard input (a single sentence S). It will display the classifier decision (1-5 score) with log-space calculations and probabilities of each class, that is P(CLASS_A |S), P(CLASS_B | S), P(CLASS_C |S), and P(CLASS_D | S), P(CLASS_E |S).
 
 # Results
-/images/test_results.png
+Test result:
+![Test Results](./images/test_results.png)
+
+Result of new inputs:
+![Test Results](./images/samples_new_input.png)
+
+# How to Use
+You only need implement this code on your terminal to run the file:
+```
+python naive_bayes.py 80
+```
+`80` is the size of training size which meaning 80% of the all data. You can change the number but the training size must be greater than 20 and less than 80. If you leave it blank or a wrong digital, the code will apply 80% for training.
