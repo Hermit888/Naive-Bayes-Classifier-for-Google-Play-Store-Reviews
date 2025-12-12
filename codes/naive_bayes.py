@@ -6,7 +6,7 @@ from nltk.tokenize import WordPunctTokenizer
 from sklearn.metrics import confusion_matrix
 
 # enter python main.py "TRAIN_SIZE" in terminal to start
-# for example "python main.py 80"
+# for example "python naive_bayes.py 80"
 
 
 #### get train data size and test data size
