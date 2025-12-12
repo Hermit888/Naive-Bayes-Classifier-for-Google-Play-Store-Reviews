@@ -25,10 +25,10 @@ Codes test the classifier by using the test set and log-space calculations to av
 Finally, the program will ask the user for keyboard input (a single sentence S). It will display the classifier decision (1-5 score) with log-space calculations and probabilities of each class, that is P(CLASS_A |S), P(CLASS_B | S), P(CLASS_C |S), and P(CLASS_D | S), P(CLASS_E |S).
 
 # Results
-Test result:
+Test result:<br>
 ![Test Results](./images/test_results.png)
 
-Result of new inputs:
+Result of new inputs:<br>
 ![Test Results](./images/samples_new_input.png)
 
 # How to Use
