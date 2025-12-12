@@ -18,9 +18,7 @@ except:
 if train_size < 20 or train_size > 80 or train_size == None or not str(train_size).isdigit():
     train_size = 80
 
-print(
-    'Qian, Yuxuan, A20484572 solution: \
-    \nTraining set size: ' + str(train_size) + '%\
+print(Training set size: ' + str(train_size) + '%\
     \n\nData clean-up...')
 
 
