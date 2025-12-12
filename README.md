@@ -32,7 +32,7 @@ __Result of new inputs:__<br>
 ![Test Results](./images/samples_new_input.png)
 
 # How to Use
-You only need implement this code on your terminal to run the file:
+You only need to implement this command on your terminal to run the file:
 ```
 python naive_bayes.py 80
 ```
